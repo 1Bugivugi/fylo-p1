@@ -1,0 +1,20 @@
+.descContainer {
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Typography */
+
+.descColH {
+  font-family: 'Raleway';
+  color: hsl(243, 87%, 12%);
+}
+
+.descColp p {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 12px;
+  color: hsl(0, 0%, 50%);
+  padding-top: 5px;
+}
