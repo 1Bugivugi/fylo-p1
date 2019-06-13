@@ -2,6 +2,7 @@
   background-image: url('../img/bg-intro.svg');
   height: 445px;
   width: 375px;
+  margin-right: 0;
 }
 
 .illustration {
@@ -14,11 +15,15 @@
 }
 
 .logo {
-  text-decoration-color: white;
+  /* text-decoration-color: white; */
   width: 90px;
   /* right: -40px;
   height: 80px; */
+}
 
+.contact img {
+  color: black;
+  fill: currentColor;
 }
 
 .contact {
@@ -44,7 +49,28 @@
 @media screen and (min-width: 376px) {
   .header {
     height: 600px;
-    width: 1440px;
-    background-image: none;
+    width: 400px;
+    background-image: linear-gradient(to right top, hsl(243, 86%, 85%), hsl(243, 87%, 12%));
+    /* z-index: -1; */
+  }
+
+  .illustration {
+    top: 160px;
+    height: 260px;
+  }
+
+  .contact {
+    position: absolute;
+    /* z-index: 1; */
+    left: 520px;
+  }
+
+  .logo {
+    position: relative;
+    right: 110px;
+  }
+
+  .header a {
+    color: black;
   }
 }

@@ -23,13 +23,11 @@ class SignUp extends Component {
                 </Col>
               </Row>
               <Row>
-                <Col>
+                <Col md={7}>
                   <p><input></input></p>
                 </Col>
-              </Row>
-              <Row>
-                <Col>
-                  <p><Button variant='success' className='colorMe1'>Sign Up</Button></p>
+                <Col md={5}>
+                <p><Button variant='success' className='colorMe1'>Sign Up</Button></p>
                 </Col>
               </Row>
               <Row>

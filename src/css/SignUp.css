@@ -1,13 +1,18 @@
 .signUpGrp input {
   width: 265px;
+  border-radius: 5px;
+  border-style: ridge;
+  border-color: rgba(214,214,214,0.5);
+  box-shadow: 0px 0px 1px 1px rgba(214,214,214,0.75)
 }
 
 .pp {
-  color: hsl(243, 86%, 85%);
+  color: hsl(243, 87%, 12%);
   text-decoration: underline;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size: 13px;
+  padding-bottom: 5px;
 }
 
 .colorMe1 {
@@ -19,6 +24,24 @@
 .callToA {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  color: hsl(243, 86%, 85%);
+  color: hsl(243, 87%, 12%);
   font-size: 15px;
+}
+
+@media screen and (min-width: 376px) {
+  .signUpGrp {
+    height: 40%;
+    width: 400px !important;
+  }
+
+  .signUpGrp input {
+    width: 220px;
+    height: 38px;
+  }
+
+  .signUpGrp .pp {
+    text-align: center;
+    position: relative;
+    top: 45px;
+  }
 }

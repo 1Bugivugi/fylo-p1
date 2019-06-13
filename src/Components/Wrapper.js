@@ -10,28 +10,29 @@ import '../css/Wrapper.css';
 class Wrapper extends Component {
 
   state = {
-    style: {padding: '0px'}
+    style: {padding: '0px'},
+    height: {height: '100%'}
   }
 
   render() {
     return (
-      <Container>
+      <Container className='wrapper' style={this.state.height}>
         <Row>
+          <div>
           <Col style={this.state.style}>
             <Header
               style={this.state.style}
             />
           </Col>
-        </Row>
-        <Row>
-          <Col>
-            <Description />
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <SignUp />
-          </Col>
+          </div>
+          <div className='block1'>
+            <Col className='respDesc'>
+              <Description />
+            </Col>
+            <Col className='respSignUp'>
+              <SignUp />
+            </Col>
+          </div>
         </Row>
       </Container>
     )

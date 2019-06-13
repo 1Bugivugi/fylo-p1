@@ -1,7 +1,5 @@
 .descContainer {
   display: block;
-  margin-left: 0;
-  margin-right: 0;
 }
 
 /* Typography */
@@ -17,4 +15,30 @@
   font-size: 12px;
   color: hsl(0, 0%, 50%);
   padding-top: 5px;
+}
+
+@media screen and (min-width: 376px) {
+  .respDesc {
+    height: 60%;
+    /* z-index: -1; */
+    position: relative;
+    top: 200px;
+  }
+
+  .descContainer {
+    width: 400px !important;
+  }
+
+  /* .descContainer {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  } */
+
+  .descColH h4 {
+    width: 400px;
+  }
+
+  .descColp p {
+    width: 360px;
+  }
 }
