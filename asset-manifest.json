@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/fylo-p1/static/css/main.71052072.chunk.css",
-    "main.js": "/fylo-p1/static/js/main.1b11f6e2.chunk.js",
-    "main.js.map": "/fylo-p1/static/js/main.1b11f6e2.chunk.js.map",
+    "main.css": "/fylo-p1/static/css/main.902597b4.chunk.css",
+    "main.js": "/fylo-p1/static/js/main.6a5c7b4f.chunk.js",
+    "main.js.map": "/fylo-p1/static/js/main.6a5c7b4f.chunk.js.map",
     "runtime~main.js": "/fylo-p1/static/js/runtime~main.7d4bbbca.js",
     "runtime~main.js.map": "/fylo-p1/static/js/runtime~main.7d4bbbca.js.map",
     "static/css/2.266e55a5.chunk.css": "/fylo-p1/static/css/2.266e55a5.chunk.css",
-    "static/js/2.34ea9862.chunk.js": "/fylo-p1/static/js/2.34ea9862.chunk.js",
-    "static/js/2.34ea9862.chunk.js.map": "/fylo-p1/static/js/2.34ea9862.chunk.js.map",
+    "static/js/2.5190cce8.chunk.js": "/fylo-p1/static/js/2.5190cce8.chunk.js",
+    "static/js/2.5190cce8.chunk.js.map": "/fylo-p1/static/js/2.5190cce8.chunk.js.map",
     "index.html": "/fylo-p1/index.html",
-    "precache-manifest.0ea0fdee74d9a3eaca3616a032cfcadb.js": "/fylo-p1/precache-manifest.0ea0fdee74d9a3eaca3616a032cfcadb.js",
+    "precache-manifest.f4f800a928f2a15e16f73d480cad5cef.js": "/fylo-p1/precache-manifest.f4f800a928f2a15e16f73d480cad5cef.js",
     "service-worker.js": "/fylo-p1/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/fylo-p1/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.71052072.chunk.css.map": "/fylo-p1/static/css/main.71052072.chunk.css.map",
+    "static/css/main.902597b4.chunk.css.map": "/fylo-p1/static/css/main.902597b4.chunk.css.map",
     "static/media/Header.css": "/fylo-p1/static/media/bg-intro.6d87f674.svg",
     "static/media/illustration-main.svg": "/fylo-p1/static/media/illustration-main.2d07e600.svg",
-    "static/media/logo.svg": "/fylo-p1/static/media/logo.ee1545b5.svg"
+    "static/media/logo.svg": "/fylo-p1/static/media/logo.5d5d9eef.svg",
+    "static/media/logo1.svg": "/fylo-p1/static/media/logo1.ee1545b5.svg",
+    "static/media/logo2.svg": "/fylo-p1/static/media/logo2.1c41e228.svg"
   }
 }

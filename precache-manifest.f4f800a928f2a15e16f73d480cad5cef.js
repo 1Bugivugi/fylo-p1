@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a30e57cdfcc5b82d1bcae057e03b1d7d",
+    "revision": "13df597017a8e4f1ba061af5caeb89e3",
     "url": "/fylo-p1/index.html"
   },
   {
-    "revision": "9c53be032340c409fac2",
+    "revision": "23bcb115556f31fb74f4",
     "url": "/fylo-p1/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "344f7b8e040b8d811c2b",
-    "url": "/fylo-p1/static/css/main.71052072.chunk.css"
+    "revision": "b9739afcde62e4fe8997",
+    "url": "/fylo-p1/static/css/main.902597b4.chunk.css"
   },
   {
-    "revision": "9c53be032340c409fac2",
-    "url": "/fylo-p1/static/js/2.34ea9862.chunk.js"
+    "revision": "23bcb115556f31fb74f4",
+    "url": "/fylo-p1/static/js/2.5190cce8.chunk.js"
   },
   {
-    "revision": "344f7b8e040b8d811c2b",
-    "url": "/fylo-p1/static/js/main.1b11f6e2.chunk.js"
+    "revision": "b9739afcde62e4fe8997",
+    "url": "/fylo-p1/static/js/main.6a5c7b4f.chunk.js"
   },
   {
     "revision": "8d7e8e6a2acaf64eda72",
@@ -37,6 +37,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ee1545b52539f5ea6e2f787fd921f468",
-    "url": "/fylo-p1/static/media/logo.ee1545b5.svg"
+    "url": "/fylo-p1/static/media/logo1.ee1545b5.svg"
+  },
+  {
+    "revision": "1c41e2284da45724dd1b3bc6f235a335",
+    "url": "/fylo-p1/static/media/logo2.1c41e228.svg"
   }
 ]);
